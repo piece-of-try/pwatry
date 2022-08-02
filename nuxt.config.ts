@@ -6,7 +6,8 @@ export default defineNuxtConfig({
     title: 'DENEME APP',
     charset: 'utf-8',
     meta: [
-      { name: 'theme-color', content: '#314D47' }
+      { name: 'theme-color', content: '#314D47' },
+      { name: "description", content: "Put your description here."},
     ],
     link: [
       { hid: 'icon', rel: 'icon', type: 'image/png', href: '/pwa/logo_x32.png' },
