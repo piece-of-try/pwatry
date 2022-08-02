@@ -12,7 +12,7 @@ if (process.client) {
     if (!('serviceWorker' in navigator)) {
       throw new Error('serviceWorker is not supported in current browser!')
     }
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('/pwa/sw.js')
   })
 }
 </script>

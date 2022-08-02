@@ -6,12 +6,12 @@ export default defineNuxtConfig({
     title: 'DENEME APP',
     charset: 'utf-8',
     meta: [
-      { name: 'theme-color', content: '#ffdd67' }
+      { name: 'theme-color', content: '#314D47' }
     ],
     link: [
-      { hid: 'icon', rel: 'icon', type: 'image/png', href: '/logo_x32.png' },
-      { hid: 'apple-touch-icon', rel: 'apple-touch-icon', href: '/l192x192.png' },
-      { rel: 'manifest', href: '/manifest.json' }
+      { hid: 'icon', rel: 'icon', type: 'image/png', href: '/pwa/logo_x32.png' },
+      { hid: 'apple-touch-icon', rel: 'apple-touch-icon', href: '/pwa/l192x192.png' },
+      { rel: 'manifest', href: '/pwa/manifest.json' }
     ]
   }
 })

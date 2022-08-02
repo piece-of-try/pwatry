@@ -2,43 +2,43 @@
     "name": "DENEME",
     "icons": [
         {
-            "src": "/512x512.png",
+            "src": "/pwa/512x512.png",
             "types": "img/png",
             "sizes": "512x512",
             "purpose": "maskable any"
         },
         {
-            "src": "/384x384.png",
+            "src": "/pwa/384x384.png",
             "types": "img/png",
             "sizes": "384x384",
             "purpose": "maskable any"
         },
         {
-            "src": "/192x192.png",
+            "src": "/pwa/192x192.png",
             "types": "img/png",
             "sizes": "192x192",
             "purpose": "maskable any"
         },
         {
-            "src": "/128x128.png",
+            "src": "/pwa/128x128.png",
             "types": "img/png",
             "sizes": "128x128",
             "purpose": "maskable any"
         },
         {
-            "src": "/96x96.png",
+            "src": "/pwa/96x96.png",
             "types": "img/png",
             "sizes": "96x96",
             "purpose": "maskable any"
         },
         {
-            "src": "/72x72.png",
+            "src": "/pwa/72x72.png",
             "types": "img/png",
             "sizes": "72x72",
             "purpose": "maskable any"
         },
         {
-            "src": "/48x48.png",
+            "src": "/pwa/48x48.png",
             "types": "img/png",
             "sizes": "48x48",
             "purpose": "maskable any"
@@ -46,6 +46,6 @@
     ],
     "start_url": "/?source=pwa",
     "display": "fullscreen",
-    "background_color": "#000000",
-    "theme_color": "#000000"
+    "background_color": "#314D47",
+    "theme_color": "#314D47"
 }
