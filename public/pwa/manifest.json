@@ -44,7 +44,7 @@
             "purpose": "maskable any"
         }
     ],
-    "start_url": "/?source=pwa",
+    "start_url": "https://main--pwanuxt2.netlify.app/",
     "display": "fullscreen",
     "background_color": "#314D47",
     "theme_color": "#314D47"
