@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   meta: {
     title: 'DENEME APP',
     charset: 'utf-8',
+    lang: 'en',
     meta: [
       { name: 'theme-color', content: '#314D47' },
       { name: "description", content: "Put your description here."},
